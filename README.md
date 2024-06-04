@@ -1,10 +1,6 @@
 # ROSMAP-APOE-methylation
 
-`ROSMAP_arrayMethylation_covariates.tsv` synapse get syn5843544  
-
-Methylation data from [https://doi.org/10.7303/syn3157275](https://doi.org/10.7303/syn3157275)
-
-
+Final output in [`methylation.long.tsv`](methylation.long.tsv)
 
 Data was downloaded using Syanpse as follows:
 ```bash
